@@ -14,7 +14,6 @@ int main(){
     	cout << "NO SOLUTION";
     	return 0;
     }
-    
     if(n%2==0){
     	for(int i=2; i<n;i+=2)
 		cout << i << " ";
