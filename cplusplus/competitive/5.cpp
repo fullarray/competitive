@@ -6,7 +6,7 @@ using namespace std;
 
 
 const int mxN=1e3. di[4]={1,0,-1,0}, dj[4]={0,1,0,-1};
-//const char dc[4]={};
+//const char dc[4]={}
 int n, m, si, sj, ti, tj;
 string s[mxN], p[mxN];
 
