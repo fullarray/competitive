@@ -1,8 +1,6 @@
 /*
-	Naive Knapsack
-	
+	Naive Knapsack	
 */
-
 #include <bits/stdc++.h>
 using namespace std;
 
